@@ -37,5 +37,7 @@
 ## 📫 Contact
 [![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:celik-01-@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyincelik2/)
+[![Twitter](https://img.shields.io/badge/-Follow-blue?style=flat&logo=twitter)](https://x.com/usain_dev) 
+[![Buy Me a Coffee](https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/usain_dev)
 
 ---
