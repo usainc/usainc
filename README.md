@@ -23,7 +23,7 @@
 - **Personal Experiments:**  
   - Simple Calculator with Python  
   - To-Do List App (JavaScript)  
-
+  - 🥙 Kebap İmparatorluğu - React Native Oyunu
 ---
 
 ## 📚 Currently Learning
