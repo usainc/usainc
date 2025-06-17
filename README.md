@@ -20,7 +20,8 @@
   - Database Design (School system simulation with SQL)  
   - Web-Based Library Management System (HTML/CSS/JS)  
 
-- **Personal Experiments:**  
+- **Personal Experiments:**
+  - Vaultology (Simple and secure password manager.)
   - Simple Calculator with Python  
   - To-Do List App (JavaScript)  
   - 🥙 Kebap İmparatorluğu - React Native Oyunu
