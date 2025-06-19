@@ -1,6 +1,6 @@
 # Hello, I'm Hüseyin ÇELİK 👋
 
-**🎓 3rd Year Management Information Systems Student at Fenerbahçe University**  
+**🎓 4th Year Management Information Systems Student at Fenerbahçe University**  
 **📍 Istanbul, Turkey**  
 **🌱 Actively Learning and Growing**
 
