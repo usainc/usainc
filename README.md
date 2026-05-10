@@ -1,44 +1,34 @@
-# Hello, I'm Hüseyin ÇELİK 👋
+# Hi, I'm Hüseyin ÇELİK
 
-**🎓 4th Year Management Information Systems Student at Fenerbahçe University**  
-**📍 Istanbul, Turkey**  
-**🌱 Actively Learning and Growing**
+Final-year Management Information Systems student at Fenerbahçe University. I build frontend projects, iOS apps, and practical product tools with a focus on business value, usability, and clean execution.
 
----
+## What I Build
 
-## 🛠️ Technologies I Use
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- iOS apps for reminders, productivity, and personal workflows
+- TypeScript web apps and product tools
+- Business-analysis-driven digital solutions
+- AI-assisted utilities and dashboards
 
----
+## Featured Work
 
-## 📂 My Projects
-- **Academic Projects:**  
-  - Database Design (School system simulation with SQL)  
-  - Web-Based Library Management System (HTML/CSS/JS)  
+- [Vaultology](https://github.com/usainc/vaultology) - Local-first password manager built with React and TypeScript
+- [Dictation App](https://github.com/usainc/dictation-app) - Browser-based voice notes app with Gemini-powered note polishing
+- [MomentCe](https://github.com/usainc/MomentCe) - Public support and policy pages for an iOS reminder app
+- DeskCe - Graduation project focused on practical AI-assisted desktop/product workflows
 
-- **Personal Experiments:**
-  - Vaultology (Simple and secure password manager.)
-  - Simple Calculator with Python  
-  - To-Do List App (JavaScript)  
-  - 🥙 Kebap İmparatorluğu - React Native Oyunu
----
+## Current Focus
 
-## 📚 Currently Learning
-- OOP Concepts in Python  
-- Basic Algorithms  
-- Game Development with Unity  
-- Mobile App Development  
+- Frontend development
+- iOS app development
+- Product thinking
+- Data-informed decision making
+- AI-assisted business tools
 
----
+## Core Stack
 
-## 📫 Contact
-[![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:celik-01-@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyincelik2/)
-[![Twitter](https://img.shields.io/badge/-Follow-blue?style=flat&logo=twitter)](https://x.com/usain_dev) 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Support%20Me-FFDD00?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/usain_dev)
+TypeScript, React, Vite, Swift/iOS, Python, SQL, GitHub, product documentation.
 
----
+## Connect
+
+- Portfolio: https://usaince.com
+- GitHub: https://github.com/usainc
